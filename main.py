@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pycodestyle import tabs_obsolete
 
-url = ""
+url = "" """ Ingrese la URL respectiva de sus datos de COVID 19"""
 data = pd.read_csv(url)
 
 # Eliminar columnas del dataSet
