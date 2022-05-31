@@ -128,3 +128,4 @@ data.loc[data['Recuperado'] == 'fallecido'] = 'Fallecido'
 
 
 
+""" Realizado hasta la consulta 17 """
